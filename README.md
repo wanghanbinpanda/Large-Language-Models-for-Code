@@ -8,15 +8,15 @@ If there are any **errors** or some **missing models**, please contact us [new i
 
 ## Contents
 
-- [Code LLMs](#Code LLMS)
+- [Code LLMs](#Code-LLMS)
 
-- [Timeline of Code LLMs](#Timeline of Code LLMs)
+- [Timeline of Code LLMs](#Timeline-of-Code-LLMs)
 
-- [Parameters of Code LLMs](#Parameters of Code LLMs)
+- [Parameters of Code LLMs](#Parameters-of-Code-LLMs)
 
 - [Models](#Models)
 
-- [Improve Code LLMs](#Improve Code LLMs)
+- [Improve Code LLMs](#Improve-Code-LLMs)
 
 - [Dataset](#Dataset)
 
