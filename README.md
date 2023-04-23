@@ -38,15 +38,13 @@ The Code LLMs here does not include the general large language model, although t
 
 ## Timeline of Code LLMs
 
-
+![image-20230424054009632](assets/image-20230424054009632.png)
 
 
 
 ## Parameters of Code LLMs
 
-
-
-
+![LLMS](assets/LLMS.png)
 
 
 
@@ -61,7 +59,7 @@ The Code LLMs here does not include the general large language model, although t
   ```yaml
   Model Architecture: Decoder Only,GPT Family
   Params: 12B
-  Training Data: Collected[159GB]
+  Training Data: Collected[Code:159GB]
   Training Time: -
   Languages: Python[Multilingual]
   Evaluation: HumanEval, APPS
@@ -70,6 +68,8 @@ The Code LLMs here does not include the general large language model, although t
 
 
 - Tabnine [Close]
+
+  :link:[AI assistant for software developers](https://www.tabnine.com/)
 
   :black_flag:[introduction](./Model/2-Tabnine.md)
 
@@ -92,7 +92,7 @@ The Code LLMs here does not include the general large language model, although t
   ```yaml
   Model Architecture: Encoder-Decoder
   Params: 41B
-  Training Data: Collected[Code: 715.1GB]
+  Training Data: Collected[Code:715.1GB]
   Training Time: -
   Languages: 12langs
   Evaluation: HumanEval,APPS,CodeContest
@@ -386,4 +386,4 @@ The Code LLMs here does not include the general large language model, although t
 
 ## Future
 
-- 
+​	[Future development](./Other/Future.md)
