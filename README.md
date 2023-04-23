@@ -279,7 +279,7 @@ The Code LLMs here does not include the general large language model, although t
 
 - **The Pile**
 
-  :link:[repo](https://github.com/EleutherAI/the-pile):black_flag:[introduction](./Dataset/The Pile.md)
+  :link:[repo](https://github.com/EleutherAI/the-pile):black_flag:[introduction](./Dataset/The-Pile.md)
 
 - **BigQuery(BIGQUERY）**
 
@@ -291,7 +291,7 @@ The Code LLMs here does not include the general large language model, although t
 
 - **The Stack**
 
-  :link:[repo](https://huggingface.co/datasets/bigcode/the-stack):black_flag:[introduction](./Dataset/The Stack.md)
+  :link:[repo](https://huggingface.co/datasets/bigcode/the-stack):black_flag:[introduction](./Dataset/The-Stack.md)
 
 - **PolyCoder**
 
